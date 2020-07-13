@@ -1,4 +1,4 @@
-# Lockphish v1.0
+# phonelock vikas Techno 
 
 Lockphish it's the first tool (05/13/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
 
